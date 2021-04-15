@@ -1,0 +1,89 @@
+.navbar-light .navbar-brand{
+    
+    margin-right: 30px;
+    font-size: 25px;
+    font-family: 'Barlow', sans-serif;
+    /* font-family: 'Luckiest Guy', cursive */
+    /* font-family: 'Potta One', cursive; */
+    /* font-family: 'Dancing Script', cursive; */
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-size: 18px;
+}
+
+.nav-item{
+    margin-left: 15px;
+}
+
+#developer-name{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 100px;
+    font-weight: bold !important;
+    font-family: 'Dancing Script', cursive;
+}
+#developer-name span{
+    font-size: 100px; 
+}
+
+#developer-position{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+
+}
+#profile-image{
+    
+    width: 130px;
+    /* height: 130px; */
+}
+.index-content{
+    margin-top: 20px;
+}
+
+div.profile-image{
+    margin-top: 20px;
+}
+.personal-info{
+    min-height: 370px;
+    border-radius: 20px;
+    padding: 10px;
+}
+#profile-image-sm{
+    width: 80px;
+    border-radius: 45px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.position-label{
+    border-radius: 10px;
+
+}
+.cotacts{
+    text-align: left;
+}
+.work-header{
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.1); */
+    padding: 3px;
+    border-radius: 20px 20px 0 0;
+
+}
+.work-header-title{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 25px;
+}
+
+.resume-title{
+
+    font-size: 25px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.cv-field{
+    margin-left: 37px;
+    margin-bottom: 25px;
+}
+
+.position-title{
+    font-weight: bolder;
+}
